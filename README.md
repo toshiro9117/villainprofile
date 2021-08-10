@@ -1,8 +1,6 @@
 <h1 align="center">😃 Solo Profile 😃</h1>
 
-<p align="center"> ⚒ Share and cross promote your links, music, videos, social media, and more on one page.</p>
 
-<h3 align="center">Fork and Enjoy 💫 This Repo</h3>
 
 ---
 
